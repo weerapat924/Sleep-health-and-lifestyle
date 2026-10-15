@@ -7,7 +7,8 @@
 | หัวข้อ | รายละเอียด |
 | --- | --- |
 | ชื่อชุดข้อมูล | Sleep Health and Lifestyle Dataset |
-| แหล่งที่มาเดิม | (ใส่ลิงก์แหล่งที่มาของชุดข้อมูล เช่น หน้า Kaggle ที่ดาวน์โหลดมา) |
+| แหล่งที่มาเดิม | [Sleep Health and Lifestyle Dataset (Kaggle)](https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset) |
+ 
 | ประเภทข้อมูล | ข้อมูลตารางเกี่ยวกับการนอนหลับและไลฟ์สไตล์ 1 แถวต่อบุคคล 1 คน |
 
 ## 2. ไฟล์ในโฟลเดอร์นี้
